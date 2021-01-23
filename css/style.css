@@ -78,6 +78,12 @@ body {
 	background-size: cover;
 }
 
+a svg:hover #facebook,
+a svg:hover #instagram,
+a svg:hover #pinterest {
+	fill: hsl(345, 95%, 68%);
+}
+
 .socmed-btn {
 	display: flex;
 	justify-content: center;
